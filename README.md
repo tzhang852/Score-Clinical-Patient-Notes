@@ -7,3 +7,8 @@ Members:
 Ian
 Luke
 Tiffany
+
+Resources
+https://www.youtube.com/watch?v=_c6A33Fg5Ns
+https://github.com/microsoft/DeBERTa
+https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8
